@@ -3,7 +3,7 @@
 💻 **Desarrollador Full Stack**  
 📍 Argentina  
 
-Actualmente me encuentro desarrollando proyectos web, enfocado en crear soluciones reales y escalables. 
+Actualmente me encuentro desarrollando proyectos web propios, enfocado en crear soluciones reales y escalables. 
 
 ---
 
